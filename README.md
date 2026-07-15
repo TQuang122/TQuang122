@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FPT%20University-Affiliation-FF6B6B?style=flat-square" alt="FPT University" />
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-4ECDC4?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Research%20%26%20Engineering-45B7D1?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/FPT%20University-1a1b27?style=flat-square&logo=google-scholar&logoColor=7aa2f7&labelColor=1a1b27" alt="FPT University" />
+  <img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City%2C%20Vietnam-1a1b27?style=flat-square&logo=googlemaps&logoColor=45B7D1&labelColor=1a1b27" alt="Location" />
+  <img src="https://img.shields.io/badge/AI%20Research%20%26%20Engineering-1a1b27?style=flat-square&logo=artificial-intelligence&logoColor=7aa2f7&labelColor=1a1b27" alt="Focus" />
 </p>
 
 Building at the intersection of machine learning research and applied AI engineering. My work spans retrieval-augmented generation, vision-language models, quantum machine learning, and end-to-end ML platforms — from experiment to deployment.
