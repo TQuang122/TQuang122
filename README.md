@@ -1,4 +1,7 @@
-<h1 align="center">Le Hoai Thanh Quang</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Le%20Hoai%20Thanh%20Quang&fontSize=34&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%26%20AI%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6f0ff,100:4ECDC4&height=200&section=header&text=Le%20Hoai%20Thanh%20Quang&fontSize=34&fontColor=1a1b27&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%26%20AI%20Engineer&descAlignY=55&descSize=18" alt="Header" />
+</picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
