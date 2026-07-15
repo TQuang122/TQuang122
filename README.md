@@ -20,34 +20,34 @@ Building at the intersection of machine learning research and applied AI enginee
 
 ### Tech Stack
 
-#### Languages & Frameworks
-Building APIs, interfaces, and practical ML applications.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-2f6f9f?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-2f6f9f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-2f6f9f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-2f6f9f?style=flat-square&logo=react&logoColor=white" alt="React" />
-</p>
-
-#### AI & Machine Learning
-Research, experimentation, RAG, and quantum machine learning.
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-138f9b?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Jupyter-138f9b?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/LangChain-138f9b?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/PennyLane-138f9b?style=flat-square" alt="PennyLane" />
-</p>
-
-#### DevOps & Infrastructure
-Containerized infrastructure and reproducible ML workflows.
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-4c4f9f?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-4c4f9f?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Airflow-4c4f9f?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages & Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-2f6f9f?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-2f6f9f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/FastAPI-2f6f9f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/React-2f6f9f?style=flat-square&logo=react&logoColor=white" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-138f9b?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Jupyter-138f9b?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/LangChain-138f9b?style=flat-square" alt="LangChain" />
+      <img src="https://img.shields.io/badge/PennyLane-138f9b?style=flat-square" alt="PennyLane" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-4c4f9f?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-4c4f9f?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Airflow-4c4f9f?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+    </td>
+  </tr>
+</table>
 
 ### Featured Projects
 
