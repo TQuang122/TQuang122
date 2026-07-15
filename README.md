@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Le%20Hoai%20Thanh%20Quang&fontSize=34&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%26%20AI%20Engineer&descAlignY=55&descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6f0ff,100:4ECDC4&height=200&section=header&text=Le%20Hoai%20Thanh%20Quang&fontSize=34&fontColor=1a1b27&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%26%20AI%20Engineer&descAlignY=55&descSize=18" alt="Header" />
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:45B7D1&height=180&section=header&text=Le%20Hoai%20Thanh%20Quang&fontSize=34&fontColor=ffffff&fontAlignY=42" alt="Le Hoai Thanh Quang" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,10 +12,6 @@
   <img src="https://img.shields.io/badge/FPT%20University-Affiliation-FF6B6B?style=flat-square" alt="FPT University" />
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-4ECDC4?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20Research%20%26%20Engineering-45B7D1?style=flat-square" alt="Focus" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TQuang122&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy" />
 </p>
 
 Building at the intersection of machine learning research and applied AI engineering. My work spans retrieval-augmented generation, vision-language models, quantum machine learning, and end-to-end ML platforms — from experiment to deployment.
