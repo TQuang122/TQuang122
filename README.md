@@ -76,6 +76,11 @@ My work spans RAG, vision-language models, quantum machine learning, and MLOps. 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TQuang122&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TQuang122/TQuang122/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TQuang122/TQuang122/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
+
 ### What I'm Working On
 
 - Building reproducible AI experiments and production-ready ML services.
