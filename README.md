@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/AI%20Research%20%26%20Engineering-1a1b27?style=flat-square&logo=artificial-intelligence&logoColor=7aa2f7&labelColor=1a1b27" alt="Focus" />
 </p>
 
-Building at the intersection of machine learning research and applied AI engineering. My work spans retrieval-augmented generation, vision-language models, quantum machine learning, and end-to-end ML platforms — from experiment to deployment.
+AI researcher and engineer focused on building reliable ML systems from research to production.
+
+My work spans RAG, vision-language models, quantum machine learning, and MLOps. I enjoy turning ideas from papers into reproducible experiments and deployable applications.
 
 ---
 
@@ -54,13 +56,10 @@ Building at the intersection of machine learning research and applied AI enginee
 | Project | Description |
 | ------- | ----------- |
 | [Cart-to-Purchase-Conversion-Prediction](https://github.com/TQuang122/Cart-to-Purchase-Conversion-Prediction) | End-to-end MLOps platform for e-commerce conversion prediction — FastAPI, React, TypeScript, Docker, Kubernetes, Airflow. |
-| [Kagitch](https://github.com/TQuang122/Kagitch) | Python AI/ML experimentation and active project development. |
-| [DeepThermo](https://github.com/TQuang122/DeepThermo) | Temperature forecasting for Southern Vietnam using ML models, preprocessing, and feature engineering. |
-| [ResMap](https://github.com/TQuang122/ResMap) | TypeScript project exploring mapping-oriented product interfaces. |
-| [quantum-ml-skills](https://github.com/TQuang122/quantum-ml-skills) | Reusable QML skills with PennyLane-first and PyTorch-first design patterns. |
-| [quanvolution-mnist](https://github.com/TQuang122/quanvolution-mnist) | Quantum-classical hybrid machine learning for MNIST classification. |
+| [quantum-ml-skills](https://github.com/TQuang122/quantum-ml-skills) | Reusable workflows for quantum machine learning with PennyLane and PyTorch. |
 | [CLIP-Learning](https://github.com/TQuang122/CLIP-Learning) | Experiments with CLIP-style vision-language representation learning. |
-| [Langchain-RAG-Server](https://github.com/TQuang122/Langchain-RAG-Server) | Retrieval-augmented generation server built with LangChain. |
+| [Langchain-RAG-Server](https://github.com/TQuang122/Langchain-RAG-Server) | Retrieval-augmented generation and backend API design with LangChain. |
+| [DeepThermo](https://github.com/TQuang122/DeepThermo) | Temperature forecasting for Southern Vietnam using ML models, preprocessing, and feature engineering. |
 
 ### GitHub Stats
 
@@ -77,11 +76,11 @@ Building at the intersection of machine learning research and applied AI enginee
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TQuang122&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </p>
 
-### Current Focus
+### What I'm Working On
 
-- **Research**: Understanding models, papers, training methods, and evaluation standards.
-- **Engineering**: Building reproducible, production-aware systems from prototype to deployment.
-- **Learning**: Quantum ML architectures, vision-language models, and MLOps infrastructure.
+- Building reproducible AI experiments and production-ready ML services.
+- Exploring multimodal learning, RAG evaluation, and quantum-classical models.
+- Improving deployment workflows for research-heavy applications.
 
 ### Connect
 
