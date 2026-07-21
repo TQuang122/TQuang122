@@ -73,7 +73,7 @@ My work spans RAG, vision-language models, quantum machine learning, and MLOps. 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TQuang122&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TQuang122&theme=dracula&hide_border=true" alt="Activity Graph" />
 </p>
 
 <picture>
