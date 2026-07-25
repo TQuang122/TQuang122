@@ -98,3 +98,11 @@ My work spans RAG, vision-language models, quantum machine learning, and MLOps. 
   <a href="https://www.linkedin.com/in/tquang71/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:lethanhquang094@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
+
+<sub>⭐️ Thanks for visiting my profile — feel free to connect!</sub>
+
+</div>
